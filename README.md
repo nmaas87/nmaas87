@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[WSL2/Win10] virt-manager for kvm on Windows](https://www.nico-maas.de/?p=2241)
 - [Ubuntu 20.04 Update bricked KVM Virt](https://www.nico-maas.de/?p=2238)
 - [[Win10] Random ports blocked while using Docker / WSL / HyperV](https://www.nico-maas.de/?p=2235)
 - [Bash for sending and receiving raw IP packets](https://www.nico-maas.de/?p=2173)
 - [Quickly check python imports](https://www.nico-maas.de/?p=2170)
-- [Upgrade SonarQube 6.7 to 7.9](https://www.nico-maas.de/?p=2145)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
