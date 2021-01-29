@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1717](https://github.com/Mailu/Mailu/issues/1717) in [Mailu/Mailu](https://github.com/Mailu/Mailu)
-2. ❗️ Opened issue [#1717](https://github.com/Mailu/Mailu/issues/1717) in [Mailu/Mailu](https://github.com/Mailu/Mailu)
-3. ❗️ Opened issue [#475](https://github.com/yamcs/yamcs/issues/475) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. ❗️ Opened issue [#1262](https://github.com/stm32duino/Arduino_Core_STM32/issues/1262) in [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
-5. ❗️ Closed issue [#97](https://github.com/yamcs/yamcs-studio/issues/97) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+1. ❗️ Closed issue [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
+2. 🗣 Commented on [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
+3. ❗️ Opened issue [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
+4. 🗣 Commented on [#1717](https://github.com/Mailu/Mailu/issues/1717) in [Mailu/Mailu](https://github.com/Mailu/Mailu)
+5. ❗️ Opened issue [#1717](https://github.com/Mailu/Mailu/issues/1717) in [Mailu/Mailu](https://github.com/Mailu/Mailu)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
