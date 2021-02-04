@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
-2. 🗣 Commented on [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
-3. ❗️ Opened issue [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
-4. 🗣 Commented on [#1717](https://github.com/Mailu/Mailu/issues/1717) in [Mailu/Mailu](https://github.com/Mailu/Mailu)
-5. ❗️ Opened issue [#1717](https://github.com/Mailu/Mailu/issues/1717) in [Mailu/Mailu](https://github.com/Mailu/Mailu)
+1. ❗️ Opened issue [#314](https://github.com/openembedded/meta-openembedded/issues/314) in [openembedded/meta-openembedded](https://github.com/openembedded/meta-openembedded)
+2. ❗️ Closed issue [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
+3. 🗣 Commented on [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
+4. ❗️ Opened issue [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
+5. 🗣 Commented on [#1717](https://github.com/Mailu/Mailu/issues/1717) in [Mailu/Mailu](https://github.com/Mailu/Mailu)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
