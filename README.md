@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Win10] Offline installation of FoD like OpenSSH Server without VLSC ISO](https://www.nico-maas.de/?p=2287)
 - [xkcdpass - secure passwords for transport](https://www.nico-maas.de/?p=2279)
 - [[PiAndMore] Raspberry Pi Webcam Build Guide](https://www.nico-maas.de/?p=2274)
 - [[PiAndMore] Raspberry Pi Introduction Presentation](https://www.nico-maas.de/?p=2268)
 - [[WSL2/Win10] virt-manager for kvm on Windows](https://www.nico-maas.de/?p=2241)
-- [Ubuntu 20.04 Update bricked KVM Virt](https://www.nico-maas.de/?p=2238)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
