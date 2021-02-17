@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [fail2ban Cheat Sheet](https://www.nico-maas.de/?p=2297)
 - [[Win10] Download Enterprise ISO with Media Creation tool / check ISO for available editions](https://www.nico-maas.de/?p=2295)
 - [[Win10] Offline installation of FoD like OpenSSH Server without VLSC ISO](https://www.nico-maas.de/?p=2287)
 - [xkcdpass - secure passwords for transport](https://www.nico-maas.de/?p=2279)
 - [[PiAndMore] Raspberry Pi Webcam Build Guide](https://www.nico-maas.de/?p=2274)
-- [[PiAndMore] Raspberry Pi Introduction Presentation](https://www.nico-maas.de/?p=2268)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
