@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/arduino-libraries/Ethernet/issues/107) in [arduino-libraries/Ethernet](https://github.com/arduino-libraries/Ethernet)
+1. 🗣 Commented on [#236](https://github.com/256dpi/arduino-mqtt/issues/236) in [256dpi/arduino-mqtt](https://github.com/256dpi/arduino-mqtt)
 2. 🗣 Commented on [#107](https://github.com/arduino-libraries/Ethernet/issues/107) in [arduino-libraries/Ethernet](https://github.com/arduino-libraries/Ethernet)
-3. ❗️ Opened issue [#236](https://github.com/256dpi/arduino-mqtt/issues/236) in [256dpi/arduino-mqtt](https://github.com/256dpi/arduino-mqtt)
-4. ❗️ Opened issue [#314](https://github.com/openembedded/meta-openembedded/issues/314) in [openembedded/meta-openembedded](https://github.com/openembedded/meta-openembedded)
-5. ❗️ Closed issue [#300](https://github.com/OCSInventory-NG/OCSInventory-Server/issues/300) in [OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)
+3. 🗣 Commented on [#107](https://github.com/arduino-libraries/Ethernet/issues/107) in [arduino-libraries/Ethernet](https://github.com/arduino-libraries/Ethernet)
+4. ❗️ Opened issue [#236](https://github.com/256dpi/arduino-mqtt/issues/236) in [256dpi/arduino-mqtt](https://github.com/256dpi/arduino-mqtt)
+5. ❗️ Opened issue [#314](https://github.com/openembedded/meta-openembedded/issues/314) in [openembedded/meta-openembedded](https://github.com/openembedded/meta-openembedded)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
