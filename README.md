@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[WSL2/Win10] Install WSLv2](https://www.nico-maas.de/?p=2309)
 - [Presentations with Markdown: revealjs](https://www.nico-maas.de/?p=2306)
 - [Use Sonarqube with sonar-cxx](https://www.nico-maas.de/?p=2300)
 - [fail2ban Cheat Sheet](https://www.nico-maas.de/?p=2297)
 - [[Win10] Download Enterprise ISO with Media Creation tool / check ISO for available editions](https://www.nico-maas.de/?p=2295)
-- [[Win10] Offline installation of FoD like OpenSSH Server without VLSC ISO](https://www.nico-maas.de/?p=2287)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
