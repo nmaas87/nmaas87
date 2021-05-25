@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/yamcs/python-yamcs-client/issues/13) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
-2. ❗️ Opened issue [#9](https://github.com/yamcs/grafana-yamcs/issues/9) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
-3. 🗣 Commented on [#824](https://github.com/agherzan/meta-raspberrypi/issues/824) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+1. 🗣 Commented on [#9](https://github.com/yamcs/grafana-yamcs/issues/9) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
+2. ❗️ Opened issue [#13](https://github.com/yamcs/python-yamcs-client/issues/13) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+3. ❗️ Opened issue [#9](https://github.com/yamcs/grafana-yamcs/issues/9) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
 4. 🗣 Commented on [#824](https://github.com/agherzan/meta-raspberrypi/issues/824) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
-5. 🗣 Commented on [#236](https://github.com/256dpi/arduino-mqtt/issues/236) in [256dpi/arduino-mqtt](https://github.com/256dpi/arduino-mqtt)
+5. 🗣 Commented on [#824](https://github.com/agherzan/meta-raspberrypi/issues/824) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
