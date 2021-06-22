@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Talk] IoT Happy Hour #56: balena in Space](https://www.nico-maas.de/?p=2358&utm_source=rss&utm_medium=rss&utm_campaign=talk-iot-happy-hour-56-balena-in-space)
 - [[WSL2/Win10] Limit Resource Consumption of WSLv2](https://www.nico-maas.de/?p=2313&utm_source=rss&utm_medium=rss&utm_campaign=wsl2-win10-limit-resource-consumption-of-wslv2)
 - [[WSL2/Win10] Install WSLv2](https://www.nico-maas.de/?p=2309&utm_source=rss&utm_medium=rss&utm_campaign=wsl2-win10-install-wslv2)
 - [Presentations with Markdown: revealjs](https://www.nico-maas.de/?p=2306&utm_source=rss&utm_medium=rss&utm_campaign=presentations-with-markdown-revealjs)
 - [Use Sonarqube with sonar-cxx](https://www.nico-maas.de/?p=2300&utm_source=rss&utm_medium=rss&utm_campaign=use-sonarqube-with-sonar-cxx)
-- [fail2ban Cheat Sheet](https://www.nico-maas.de/?p=2297&utm_source=rss&utm_medium=rss&utm_campaign=fail2ban-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
