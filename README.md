@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#573](https://github.com/yamcs/yamcs/issues/573) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. 🗣 Commented on [#573](https://github.com/yamcs/yamcs/issues/573) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. ❗️ Opened issue [#573](https://github.com/yamcs/yamcs/issues/573) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#9](https://github.com/yamcs/grafana-yamcs/issues/9) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
-5. ❗️ Opened issue [#13](https://github.com/yamcs/python-yamcs-client/issues/13) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+1. 🗣 Commented on [#5](https://github.com/yamcs/grafana-yamcs/issues/5) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
+2. 🗣 Commented on [#9](https://github.com/yamcs/grafana-yamcs/issues/9) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
+3. ❗️ Opened issue [#10](https://github.com/yamcs/grafana-yamcs/issues/10) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
+4. ❗️ Closed issue [#573](https://github.com/yamcs/yamcs/issues/573) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#573](https://github.com/yamcs/yamcs/issues/573) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
