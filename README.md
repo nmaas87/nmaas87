@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#574](https://github.com/yamcs/yamcs/issues/574) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Closed issue [#574](https://github.com/yamcs/yamcs/issues/574) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. ❗️ Opened issue [#574](https://github.com/yamcs/yamcs/issues/574) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. ❗️ Opened issue [#109](https://github.com/yamcs/yamcs-studio/issues/109) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-5. 🗣 Commented on [#10](https://github.com/yamcs/grafana-yamcs/issues/10) in [yamcs/grafana-yamcs](https://github.com/yamcs/grafana-yamcs)
+1. 🗣 Commented on [#1387](https://github.com/balena-os/meta-balena/issues/1387) in [balena-os/meta-balena](https://github.com/balena-os/meta-balena)
+2. 🗣 Commented on [#574](https://github.com/yamcs/yamcs/issues/574) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. ❗️ Closed issue [#574](https://github.com/yamcs/yamcs/issues/574) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. ❗️ Opened issue [#574](https://github.com/yamcs/yamcs/issues/574) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. ❗️ Opened issue [#109](https://github.com/yamcs/yamcs-studio/issues/109) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
