@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Talk] IoT Happy Hour #63: balena Ambassador Projects](https://www.nico-maas.de/?p=2385)
 - [gpsTime](https://www.nico-maas.de/?p=2370)
 - [[Talk] IoT Happy Hour #56: balena in Space](https://www.nico-maas.de/?p=2358)
 - [[WSL2/Win10] Limit Resource Consumption of WSLv2](https://www.nico-maas.de/?p=2313)
 - [[WSL2/Win10] Install WSLv2](https://www.nico-maas.de/?p=2309)
-- [Presentations with Markdown: revealjs](https://www.nico-maas.de/?p=2306)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
