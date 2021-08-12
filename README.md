@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#592](https://github.com/yamcs/yamcs/issues/592) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Opened issue [#592](https://github.com/yamcs/yamcs/issues/592) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. ❗️ Opened issue [#591](https://github.com/yamcs/yamcs/issues/591) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. ❗️ Opened issue [#15](https://github.com/yamcs/python-yamcs-client/issues/15) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
-5. ❗️ Opened issue [#8](https://github.com/jtauber/mars-clock/issues/8) in [jtauber/mars-clock](https://github.com/jtauber/mars-clock)
+1. ❗️ Opened issue [#75](https://github.com/balenablocks/browser/issues/75) in [balenablocks/browser](https://github.com/balenablocks/browser)
+2. 🗣 Commented on [#592](https://github.com/yamcs/yamcs/issues/592) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. ❗️ Opened issue [#592](https://github.com/yamcs/yamcs/issues/592) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. ❗️ Opened issue [#591](https://github.com/yamcs/yamcs/issues/591) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. ❗️ Opened issue [#15](https://github.com/yamcs/python-yamcs-client/issues/15) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
