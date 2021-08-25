@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
+1. ❗️ Opened issue [#841](https://github.com/Catfriend1/syncthing-android/issues/841) in [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android)
 2. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
-3. ❗️ Opened issue [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
-4. ❗️ Opened issue [#75](https://github.com/balenablocks/browser/issues/75) in [balenablocks/browser](https://github.com/balenablocks/browser)
-5. 🗣 Commented on [#592](https://github.com/yamcs/yamcs/issues/592) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
+4. ❗️ Opened issue [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
+5. ❗️ Opened issue [#75](https://github.com/balenablocks/browser/issues/75) in [balenablocks/browser](https://github.com/balenablocks/browser)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
