@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#841](https://github.com/Catfriend1/syncthing-android/issues/841) in [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android)
-2. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
+1. ❗️ Opened issue [#121](https://github.com/lorabasics/basicstation/issues/121) in [lorabasics/basicstation](https://github.com/lorabasics/basicstation)
+2. ❗️ Opened issue [#841](https://github.com/Catfriend1/syncthing-android/issues/841) in [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android)
 3. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
-4. ❗️ Opened issue [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
-5. ❗️ Opened issue [#75](https://github.com/balenablocks/browser/issues/75) in [balenablocks/browser](https://github.com/balenablocks/browser)
+4. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
+5. ❗️ Opened issue [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
