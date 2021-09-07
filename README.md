@@ -46,10 +46,10 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/lorabasics/basicstation/issues/121) in [lorabasics/basicstation](https://github.com/lorabasics/basicstation)
-2. ❗️ Opened issue [#121](https://github.com/lorabasics/basicstation/issues/121) in [lorabasics/basicstation](https://github.com/lorabasics/basicstation)
-3. ❗️ Opened issue [#841](https://github.com/Catfriend1/syncthing-android/issues/841) in [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android)
-4. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
+1. 💪 Opened PR [#56](https://github.com/RAKWireless/rak_common_for_gateway/pull/56) in [RAKWireless/rak_common_for_gateway](https://github.com/RAKWireless/rak_common_for_gateway)
+2. 🗣 Commented on [#121](https://github.com/lorabasics/basicstation/issues/121) in [lorabasics/basicstation](https://github.com/lorabasics/basicstation)
+3. ❗️ Opened issue [#121](https://github.com/lorabasics/basicstation/issues/121) in [lorabasics/basicstation](https://github.com/lorabasics/basicstation)
+4. ❗️ Opened issue [#841](https://github.com/Catfriend1/syncthing-android/issues/841) in [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android)
 5. 🗣 Commented on [#303](https://github.com/spencermountain/spacetime/issues/303) in [spencermountain/spacetime](https://github.com/spencermountain/spacetime)
 <!--END_SECTION:activity-->
 
