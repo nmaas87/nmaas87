@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-2. 💪 Opened PR [#56](https://github.com/RAKWireless/rak_common_for_gateway/pull/56) in [RAKWireless/rak_common_for_gateway](https://github.com/RAKWireless/rak_common_for_gateway)
-3. 🗣 Commented on [#121](https://github.com/lorabasics/basicstation/issues/121) in [lorabasics/basicstation](https://github.com/lorabasics/basicstation)
-4. ❗️ Opened issue [#121](https://github.com/lorabasics/basicstation/issues/121) in [lorabasics/basicstation](https://github.com/lorabasics/basicstation)
-5. ❗️ Opened issue [#841](https://github.com/Catfriend1/syncthing-android/issues/841) in [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android)
+1. ❗️ Opened issue [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+2. ❗️ Closed issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+3. 🗣 Commented on [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+4. ❗️ Opened issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+5. 💪 Opened PR [#56](https://github.com/RAKWireless/rak_common_for_gateway/pull/56) in [RAKWireless/rak_common_for_gateway](https://github.com/RAKWireless/rak_common_for_gateway)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
