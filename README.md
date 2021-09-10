@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-2. ❗️ Opened issue [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-3. ❗️ Closed issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-4. 🗣 Commented on [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-5. ❗️ Opened issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+2. 🗣 Commented on [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+3. ❗️ Opened issue [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+4. ❗️ Closed issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+5. 🗣 Commented on [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
