@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-2. ❗️ Closed issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-3. 🗣 Commented on [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-4. ❗️ Opened issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
-5. 💪 Opened PR [#56](https://github.com/RAKWireless/rak_common_for_gateway/pull/56) in [RAKWireless/rak_common_for_gateway](https://github.com/RAKWireless/rak_common_for_gateway)
+1. 🗣 Commented on [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+2. ❗️ Opened issue [#15](https://github.com/xbelanch/OBS4Pi/issues/15) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+3. ❗️ Closed issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+4. 🗣 Commented on [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
+5. ❗️ Opened issue [#14](https://github.com/xbelanch/OBS4Pi/issues/14) in [xbelanch/OBS4Pi](https://github.com/xbelanch/OBS4Pi)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
