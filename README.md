@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#611](https://github.com/yamcs/yamcs/issues/611) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Opened issue [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. 🗣 Commented on [#58](https://github.com/RAKWireless/rak_common_for_gateway/issues/58) in [RAKWireless/rak_common_for_gateway](https://github.com/RAKWireless/rak_common_for_gateway)
-4. ❗️ Opened issue [#58](https://github.com/RAKWireless/rak_common_for_gateway/issues/58) in [RAKWireless/rak_common_for_gateway](https://github.com/RAKWireless/rak_common_for_gateway)
-5. ❗️ Opened issue [#57](https://github.com/RAKWireless/rak_common_for_gateway/issues/57) in [RAKWireless/rak_common_for_gateway](https://github.com/RAKWireless/rak_common_for_gateway)
+1. ❗️ Closed issue [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. ❗️ Opened issue [#612](https://github.com/yamcs/yamcs/issues/612) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. ❗️ Opened issue [#611](https://github.com/yamcs/yamcs/issues/611) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. ❗️ Opened issue [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
