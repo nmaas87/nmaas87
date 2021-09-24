@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. 🗣 Commented on [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. ❗️ Opened issue [#612](https://github.com/yamcs/yamcs/issues/612) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. ❗️ Opened issue [#611](https://github.com/yamcs/yamcs/issues/611) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. ❗️ Opened issue [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. ❗️ Closed issue [#475](https://github.com/yamcs/yamcs/issues/475) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#475](https://github.com/yamcs/yamcs/issues/475) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. ❗️ Closed issue [#612](https://github.com/yamcs/yamcs/issues/612) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. 🗣 Commented on [#612](https://github.com/yamcs/yamcs/issues/612) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. ❗️ Closed issue [#610](https://github.com/yamcs/yamcs/issues/610) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
