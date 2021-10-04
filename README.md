@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Opened issue [#195](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/195) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
-3. 🗣 Commented on [#107](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/107) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
-4. 🗣 Commented on [#611](https://github.com/yamcs/yamcs/issues/611) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. ❗️ Closed issue [#475](https://github.com/yamcs/yamcs/issues/475) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. ❗️ Opened issue [#111](https://github.com/yamcs/yamcs-studio/issues/111) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+2. ❗️ Opened issue [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. ❗️ Opened issue [#195](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/195) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
+4. 🗣 Commented on [#107](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/107) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
+5. 🗣 Commented on [#611](https://github.com/yamcs/yamcs/issues/611) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
