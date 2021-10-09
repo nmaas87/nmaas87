@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=nico-maas.de&style=for-the-badge&url=https%3A%2F%2Fwww.nico-maas.de)](https://www.nico-maas.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nmaas87?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnmaas87&screen_name=nmaas87)
 
-## Space, IT Security, Networks, Embedded Systems, Docker Campus Ambassador and Raspberry Pi Geek
+## Space, IT Security, Networks, Embedded Systems, balena Ambassador, Docker Campus Ambassador and Raspberry Pi Geek
 
 - 🔭 I'm trying to make Space more Open Source
-- 🌱 I'm currently learning to use STM32 processors
+- 🌱 I'm currently learning to use STM32 processors, NVIDIA Jetson and LoRaWAN
 - 🎉 Projects involving the use of a soldering iron spark my interest, as I hack both in hardware and software, i.e.
   - 8 bit (ATtiny / ATmega) / 16 bit (MSP430) / 32 bit (ARM) / x86 / x64 processors
   - PCB design
