@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LoRaWAN with RAKwireless RAK5146: The SX1303 in the field, a rocky start](https://www.nico-maas.de/?p=2414)
 - [[PiAndRadio] Raspberry Pi GPS Time Server](https://www.nico-maas.de/?p=2402)
 - [[PiAndRadio] Raspberry Pi Introduction Presentation](https://www.nico-maas.de/?p=2398)
 - [[Talk] IoT Happy Hour #63: balena Ambassador Projects](https://www.nico-maas.de/?p=2385)
 - [gpsTime](https://www.nico-maas.de/?p=2370)
-- [[Talk] IoT Happy Hour #56: balena in Space](https://www.nico-maas.de/?p=2358)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
