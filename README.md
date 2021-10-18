@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#112](https://github.com/yamcs/yamcs-studio/issues/112) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-2. 🗣 Commented on [#413](https://github.com/balena-os/wifi-connect/issues/413) in [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect)
-3. ❗️ Opened issue [#111](https://github.com/yamcs/yamcs-studio/issues/111) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-4. ❗️ Opened issue [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. ❗️ Opened issue [#195](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/195) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
+1. ❗️ Opened issue [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+2. ❗️ Opened issue [#112](https://github.com/yamcs/yamcs-studio/issues/112) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+3. 🗣 Commented on [#413](https://github.com/balena-os/wifi-connect/issues/413) in [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect)
+4. ❗️ Opened issue [#111](https://github.com/yamcs/yamcs-studio/issues/111) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+5. ❗️ Opened issue [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
