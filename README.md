@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
-2. ❗️ Opened issue [#112](https://github.com/yamcs/yamcs-studio/issues/112) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-3. 🗣 Commented on [#413](https://github.com/balena-os/wifi-connect/issues/413) in [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect)
-4. ❗️ Opened issue [#111](https://github.com/yamcs/yamcs-studio/issues/111) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-5. ❗️ Opened issue [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. 🎉 Merged PR [#1](https://github.com/nmaas87/Documentation/pull/1) in [nmaas87/Documentation](https://github.com/nmaas87/Documentation)
+2. 💪 Opened PR [#1](https://github.com/nmaas87/Documentation/pull/1) in [nmaas87/Documentation](https://github.com/nmaas87/Documentation)
+3. ❗️ Opened issue [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+4. ❗️ Opened issue [#112](https://github.com/yamcs/yamcs-studio/issues/112) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+5. 🗣 Commented on [#413](https://github.com/balena-os/wifi-connect/issues/413) in [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
