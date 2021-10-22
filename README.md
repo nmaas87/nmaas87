@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MDK-Packs/Documentation/pull/1) in [MDK-Packs/Documentation](https://github.com/MDK-Packs/Documentation)
-2. 🎉 Merged PR [#1](https://github.com/nmaas87/Documentation/pull/1) in [nmaas87/Documentation](https://github.com/nmaas87/Documentation)
-3. 💪 Opened PR [#1](https://github.com/nmaas87/Documentation/pull/1) in [nmaas87/Documentation](https://github.com/nmaas87/Documentation)
-4. ❗️ Opened issue [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
-5. ❗️ Opened issue [#112](https://github.com/yamcs/yamcs-studio/issues/112) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+1. 🗣 Commented on [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+2. 💪 Opened PR [#1](https://github.com/MDK-Packs/Documentation/pull/1) in [MDK-Packs/Documentation](https://github.com/MDK-Packs/Documentation)
+3. 🎉 Merged PR [#1](https://github.com/nmaas87/Documentation/pull/1) in [nmaas87/Documentation](https://github.com/nmaas87/Documentation)
+4. 💪 Opened PR [#1](https://github.com/nmaas87/Documentation/pull/1) in [nmaas87/Documentation](https://github.com/nmaas87/Documentation)
+5. ❗️ Opened issue [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
