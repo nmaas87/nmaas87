@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-2. ❗️ Opened issue [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-3. 🗣 Commented on [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
-4. 💪 Opened PR [#1](https://github.com/MDK-Packs/Documentation/pull/1) in [MDK-Packs/Documentation](https://github.com/MDK-Packs/Documentation)
-5. 🎉 Merged PR [#1](https://github.com/nmaas87/Documentation/pull/1) in [nmaas87/Documentation](https://github.com/nmaas87/Documentation)
+2. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+3. ❗️ Opened issue [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+4. 🗣 Commented on [#17](https://github.com/yamcs/python-yamcs-client/issues/17) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+5. 💪 Opened PR [#1](https://github.com/MDK-Packs/Documentation/pull/1) in [MDK-Packs/Documentation](https://github.com/MDK-Packs/Documentation)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
