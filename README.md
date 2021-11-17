@@ -50,7 +50,7 @@
 2. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 3. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 4. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-5. ❗️ Opened issue [#32](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1/issues/32) in [adafruit/Adafruit_CircuitPython_LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1)
+5. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
