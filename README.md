@@ -48,9 +48,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 2. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-3. ❗️ Opened issue [#32](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1/issues/32) in [adafruit/Adafruit_CircuitPython_LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1)
+3. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 4. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-5. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+5. ❗️ Opened issue [#32](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1/issues/32) in [adafruit/Adafruit_CircuitPython_LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
