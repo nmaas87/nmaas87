@@ -46,7 +46,7 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+1. ❗️ Opened issue [#114](https://github.com/yamcs/yamcs-studio/issues/114) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 2. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 3. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 4. 🗣 Commented on [#113](https://github.com/yamcs/yamcs-studio/issues/113) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
