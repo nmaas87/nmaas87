@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/xoseperez/udp-packet-forwarder/pull/1) in [xoseperez/udp-packet-forwarder](https://github.com/xoseperez/udp-packet-forwarder)
-2. 🗣 Commented on [#213](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/213) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
-3. 🗣 Commented on [#195](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/195) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
-4. 🗣 Commented on [#195](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/195) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
-5. 🗣 Commented on [#213](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/213) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
+1. ❌ Closed PR [#2](https://github.com/xoseperez/udp-packet-forwarder/pull/2) in [xoseperez/udp-packet-forwarder](https://github.com/xoseperez/udp-packet-forwarder)
+2. 💪 Opened PR [#2](https://github.com/xoseperez/udp-packet-forwarder/pull/2) in [xoseperez/udp-packet-forwarder](https://github.com/xoseperez/udp-packet-forwarder)
+3. 💪 Opened PR [#1](https://github.com/xoseperez/udp-packet-forwarder/pull/1) in [xoseperez/udp-packet-forwarder](https://github.com/xoseperez/udp-packet-forwarder)
+4. 🗣 Commented on [#213](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/213) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
+5. 🗣 Commented on [#195](https://github.com/HelTecAutomation/CubeCell-Arduino/issues/195) in [HelTecAutomation/CubeCell-Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
