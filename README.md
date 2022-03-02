@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/RAKWireless/udp-packet-forwarder/pull/3) in [RAKWireless/udp-packet-forwarder](https://github.com/RAKWireless/udp-packet-forwarder)
-2. 🗣 Commented on [#241](https://github.com/FPGAwars/apio/issues/241) in [FPGAwars/apio](https://github.com/FPGAwars/apio)
+1. 💪 Opened PR [#10](https://github.com/balenablocks/sensor/pull/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
+2. 💪 Opened PR [#3](https://github.com/RAKWireless/udp-packet-forwarder/pull/3) in [RAKWireless/udp-packet-forwarder](https://github.com/RAKWireless/udp-packet-forwarder)
 3. 🗣 Commented on [#241](https://github.com/FPGAwars/apio/issues/241) in [FPGAwars/apio](https://github.com/FPGAwars/apio)
-4. ❌ Closed PR [#2](https://github.com/xoseperez/udp-packet-forwarder/pull/2) in [xoseperez/udp-packet-forwarder](https://github.com/xoseperez/udp-packet-forwarder)
-5. 💪 Opened PR [#2](https://github.com/xoseperez/udp-packet-forwarder/pull/2) in [xoseperez/udp-packet-forwarder](https://github.com/xoseperez/udp-packet-forwarder)
+4. 🗣 Commented on [#241](https://github.com/FPGAwars/apio/issues/241) in [FPGAwars/apio](https://github.com/FPGAwars/apio)
+5. ❌ Closed PR [#2](https://github.com/xoseperez/udp-packet-forwarder/pull/2) in [xoseperez/udp-packet-forwarder](https://github.com/xoseperez/udp-packet-forwarder)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
