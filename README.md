@@ -47,9 +47,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/balenablocks/sensor/issues/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
-2. 💪 Opened PR [#10](https://github.com/balenablocks/sensor/pull/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
-3. 💪 Opened PR [#3](https://github.com/RAKWireless/udp-packet-forwarder/pull/3) in [RAKWireless/udp-packet-forwarder](https://github.com/RAKWireless/udp-packet-forwarder)
-4. 🗣 Commented on [#241](https://github.com/FPGAwars/apio/issues/241) in [FPGAwars/apio](https://github.com/FPGAwars/apio)
+2. 🗣 Commented on [#10](https://github.com/balenablocks/sensor/issues/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
+3. 💪 Opened PR [#10](https://github.com/balenablocks/sensor/pull/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
+4. 💪 Opened PR [#3](https://github.com/RAKWireless/udp-packet-forwarder/pull/3) in [RAKWireless/udp-packet-forwarder](https://github.com/RAKWireless/udp-packet-forwarder)
 5. 🗣 Commented on [#241](https://github.com/FPGAwars/apio/issues/241) in [FPGAwars/apio](https://github.com/FPGAwars/apio)
 <!--END_SECTION:activity-->
 
