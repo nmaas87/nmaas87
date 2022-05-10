@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1261](https://github.com/FastLED/FastLED/issues/1261) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
-2. 🗣 Commented on [#1221](https://github.com/FastLED/FastLED/issues/1221) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
-3. 🗣 Commented on [#1258](https://github.com/FastLED/FastLED/issues/1258) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
-4. 🗣 Commented on [#1359](https://github.com/FastLED/FastLED/issues/1359) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
-5. ❌ Closed PR [#10](https://github.com/balenablocks/sensor/pull/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
+1. ❗️ Closed issue [#22](https://github.com/Vrekrer/Vrekrer_scpi_parser/issues/22) in [Vrekrer/Vrekrer_scpi_parser](https://github.com/Vrekrer/Vrekrer_scpi_parser)
+2. 🗣 Commented on [#22](https://github.com/Vrekrer/Vrekrer_scpi_parser/issues/22) in [Vrekrer/Vrekrer_scpi_parser](https://github.com/Vrekrer/Vrekrer_scpi_parser)
+3. ❗️ Opened issue [#22](https://github.com/Vrekrer/Vrekrer_scpi_parser/issues/22) in [Vrekrer/Vrekrer_scpi_parser](https://github.com/Vrekrer/Vrekrer_scpi_parser)
+4. 🗣 Commented on [#1261](https://github.com/FastLED/FastLED/issues/1261) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
+5. 🗣 Commented on [#1221](https://github.com/FastLED/FastLED/issues/1221) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
