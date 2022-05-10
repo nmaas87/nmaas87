@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/balenablocks/sensor/pull/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
-2. 🗣 Commented on [#10](https://github.com/balenablocks/sensor/issues/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
-3. 🗣 Commented on [#10](https://github.com/balenablocks/sensor/issues/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
-4. 🗣 Commented on [#10](https://github.com/balenablocks/sensor/issues/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
-5. 💪 Opened PR [#10](https://github.com/balenablocks/sensor/pull/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
+1. 🗣 Commented on [#1261](https://github.com/FastLED/FastLED/issues/1261) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
+2. 🗣 Commented on [#1221](https://github.com/FastLED/FastLED/issues/1221) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
+3. 🗣 Commented on [#1258](https://github.com/FastLED/FastLED/issues/1258) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
+4. 🗣 Commented on [#1359](https://github.com/FastLED/FastLED/issues/1359) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
+5. ❌ Closed PR [#10](https://github.com/balenablocks/sensor/pull/10) in [balenablocks/sensor](https://github.com/balenablocks/sensor)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
