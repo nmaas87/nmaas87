@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
-2. 🗣 Commented on [#222](https://github.com/arduino/ArduinoCore-avr/issues/222) in [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr)
-3. 🗣 Commented on [#9](https://github.com/arduino/ArduinoCore-avr/issues/9) in [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr)
-4. 💪 Opened PR [#6](https://github.com/balena-io-playground/balena-rpi-gpio-sample-with-python/pull/6) in [balena-io-playground/balena-rpi-gpio-sample-with-python](https://github.com/balena-io-playground/balena-rpi-gpio-sample-with-python)
-5. ❗️ Closed issue [#22](https://github.com/Vrekrer/Vrekrer_scpi_parser/issues/22) in [Vrekrer/Vrekrer_scpi_parser](https://github.com/Vrekrer/Vrekrer_scpi_parser)
+1. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
+2. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
+3. ❗️ Opened issue [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
+4. 🗣 Commented on [#222](https://github.com/arduino/ArduinoCore-avr/issues/222) in [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr)
+5. 🗣 Commented on [#9](https://github.com/arduino/ArduinoCore-avr/issues/9) in [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
