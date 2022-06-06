@@ -48,9 +48,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
 2. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
-3. ❗️ Opened issue [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
-4. 🗣 Commented on [#222](https://github.com/arduino/ArduinoCore-avr/issues/222) in [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr)
-5. 🗣 Commented on [#9](https://github.com/arduino/ArduinoCore-avr/issues/9) in [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr)
+3. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
+4. ❗️ Opened issue [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
+5. 🗣 Commented on [#222](https://github.com/arduino/ArduinoCore-avr/issues/222) in [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
