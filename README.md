@@ -46,8 +46,8 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com/PaulStoffregen/OneWire/pull/115) in [PaulStoffregen/OneWire](https://github.com/PaulStoffregen/OneWire)
-2. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
+1. ❗️ Opened issue [#1](https://github.com/ekkai/WizFi360/issues/1) in [ekkai/WizFi360](https://github.com/ekkai/WizFi360)
+2. 💪 Opened PR [#115](https://github.com/PaulStoffregen/OneWire/pull/115) in [PaulStoffregen/OneWire](https://github.com/PaulStoffregen/OneWire)
 3. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
 4. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
 5. 🗣 Commented on [#14](https://github.com/Heisath/wdmc2-kernel/issues/14) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
