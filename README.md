@@ -48,9 +48,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
 2. 🗣 Commented on [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
-3. ❗️ Opened issue [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
-4. ❗️ Closed issue [#1](https://github.com/ekkai/WizFi360/issues/1) in [ekkai/WizFi360](https://github.com/ekkai/WizFi360)
-5. 🗣 Commented on [#1](https://github.com/ekkai/WizFi360/issues/1) in [ekkai/WizFi360](https://github.com/ekkai/WizFi360)
+3. 🗣 Commented on [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
+4. ❗️ Opened issue [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
+5. ❗️ Closed issue [#1](https://github.com/ekkai/WizFi360/issues/1) in [ekkai/WizFi360](https://github.com/ekkai/WizFi360)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
