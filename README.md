@@ -46,10 +46,10 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Opened issue [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. 🗣 Commented on [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
-4. 🗣 Commented on [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
+1. ❗️ Closed issue [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. 🗣 Commented on [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. ❗️ Opened issue [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 5. 🗣 Commented on [#2](https://github.com/Wiznet/WizFi360_arduino_library/issues/2) in [Wiznet/WizFi360_arduino_library](https://github.com/Wiznet/WizFi360_arduino_library)
 <!--END_SECTION:activity-->
 
