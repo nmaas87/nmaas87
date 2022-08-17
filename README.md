@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#317](https://github.com/balena-os/balena-jetson/issues/317) in [balena-os/balena-jetson](https://github.com/balena-os/balena-jetson)
-2. ❗️ Closed issue [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. 🗣 Commented on [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#317](https://github.com/balena-os/balena-jetson/issues/317) in [balena-os/balena-jetson](https://github.com/balena-os/balena-jetson)
+3. ❗️ Closed issue [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 4. 🗣 Commented on [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. ❗️ Opened issue [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
