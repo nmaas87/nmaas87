@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Opened issue [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. 🗣 Commented on [#317](https://github.com/balena-os/balena-jetson/issues/317) in [balena-os/balena-jetson](https://github.com/balena-os/balena-jetson)
+1. 🗣 Commented on [#122](https://github.com/arduino/arduino-ide/issues/122) in [arduino/arduino-ide](https://github.com/arduino/arduino-ide)
+2. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. ❗️ Opened issue [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 4. 🗣 Commented on [#317](https://github.com/balena-os/balena-jetson/issues/317) in [balena-os/balena-jetson](https://github.com/balena-os/balena-jetson)
-5. ❗️ Closed issue [#708](https://github.com/yamcs/yamcs/issues/708) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#317](https://github.com/balena-os/balena-jetson/issues/317) in [balena-os/balena-jetson](https://github.com/balena-os/balena-jetson)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
