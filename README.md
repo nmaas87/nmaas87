@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#91](https://github.com/google-coral/pycoral/issues/91) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
-2. 🗣 Commented on [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
-3. ❗️ Closed issue [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
-4. 💪 Opened PR [#2](https://github.com/alanb128/opendatacam-ei/pull/2) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
-5. ❗️ Opened issue [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
+2. 🗣 Commented on [#91](https://github.com/google-coral/pycoral/issues/91) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
+3. 🗣 Commented on [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
+4. ❗️ Closed issue [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
+5. 💪 Opened PR [#2](https://github.com/alanb128/opendatacam-ei/pull/2) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
