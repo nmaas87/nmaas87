@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com/arduino-libraries/Ethernet/issues/185) in [arduino-libraries/Ethernet](https://github.com/arduino-libraries/Ethernet)
-2. 🗣 Commented on [#91](https://github.com/google-coral/pycoral/issues/91) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
+1. 🗣 Commented on [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#185](https://github.com/arduino-libraries/Ethernet/issues/185) in [arduino-libraries/Ethernet](https://github.com/arduino-libraries/Ethernet)
 3. 🗣 Commented on [#91](https://github.com/google-coral/pycoral/issues/91) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
-4. 🗣 Commented on [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
-5. ❗️ Closed issue [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
+4. 🗣 Commented on [#91](https://github.com/google-coral/pycoral/issues/91) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
+5. 🗣 Commented on [#1](https://github.com/alanb128/opendatacam-ei/issues/1) in [alanb128/opendatacam-ei](https://github.com/alanb128/opendatacam-ei)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
