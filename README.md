@@ -20,10 +20,14 @@
 
 ### Connect with me
 
-[<img align="left" alt="nico-maas.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nmaas87 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nicomaas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nicomaas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
+[<img align="left" alt="nico-maas.de" width="22px" src="https://cdn.simpleicons.org/wordpress" />][website]
+[<img align="left" alt="nicomaas | Keybase" width="22px" src="https://cdn.simpleicons.org/keybase" />][keybase]
+[<img align="left" alt="nmaas87 | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="@nmaas87@chaos.social | Mastodon" width="22px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
+[<img align="left" alt="nicomaas | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="nmaas87 | Hackster" width="22px" src="https://cdn.simpleicons.org/hackster" />][hackster]
+
+
 
 <br />
 
@@ -62,6 +66,8 @@
 [twitter]: https://twitter.com/nmaas87
 [linkedin]: https://linkedin.com/in/nicomaas
 [keybase]: https://keybase.io/nicomaas
+[hackster]: https://www.hackster.io/nmaas87
+[mastodon]: https://chaos.social/@nmaas87
 [piandmore]: https://piandmore.de/en/
 [talks]: https://www.nico-maas.de/?cat=392
 [video recordings]: https://www.nico-maas.de/?page_id=1244
