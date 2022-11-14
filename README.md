@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#122](https://github.com/yamcs/yamcs-studio/issues/122) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-2. ❗️ Opened issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-3. 🗣 Commented on [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#185](https://github.com/arduino-libraries/Ethernet/issues/185) in [arduino-libraries/Ethernet](https://github.com/arduino-libraries/Ethernet)
-5. 🗣 Commented on [#91](https://github.com/google-coral/pycoral/issues/91) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
+1. ❗️ Closed issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+2. 🗣 Commented on [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+3. ❗️ Opened issue [#122](https://github.com/yamcs/yamcs-studio/issues/122) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+4. ❗️ Opened issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+5. 🗣 Commented on [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
