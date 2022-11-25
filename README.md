@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-2. 🗣 Commented on [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-3. ❗️ Opened issue [#122](https://github.com/yamcs/yamcs-studio/issues/122) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-4. ❗️ Opened issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-5. 🗣 Commented on [#615](https://github.com/yamcs/yamcs/issues/615) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. 🗣 Commented on [#17](https://github.com/Heisath/wdmc2-kernel/issues/17) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
+2. ❗️ Closed issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+3. 🗣 Commented on [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+4. ❗️ Opened issue [#122](https://github.com/yamcs/yamcs-studio/issues/122) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+5. ❗️ Opened issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
