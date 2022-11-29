@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-2. 🗣 Commented on [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-3. ❗️ Opened issue [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-4. 🗣 Commented on [#17](https://github.com/Heisath/wdmc2-kernel/issues/17) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
-5. ❗️ Closed issue [#121](https://github.com/yamcs/yamcs-studio/issues/121) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+1. ❗️ Opened issue [#25](https://github.com/plutoplus/plutoplus/issues/25) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+2. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+3. 🗣 Commented on [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+4. ❗️ Opened issue [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+5. 🗣 Commented on [#17](https://github.com/Heisath/wdmc2-kernel/issues/17) in [Heisath/wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
