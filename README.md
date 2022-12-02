@@ -54,7 +54,7 @@
 2. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 3. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 4. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-5. 🗣 Commented on [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+5. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
