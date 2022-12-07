@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Euro External 13,5&#39;&#39; / 2256x1504 Display with 2x Mini HDMI Input](https://www.nico-maas.de/?p=2556)
 - [Add icons to Jetpack Social Menu](https://www.nico-maas.de/?p=2551)
 - [USB C power for the Nvidia Jetson Nano 4 GB dev board](https://www.nico-maas.de/?p=2522)
 - [An active GNSS antenna for the CAM-M8Q breakout](https://www.nico-maas.de/?p=2516)
 - [labSentinel 2](https://www.nico-maas.de/?p=2498)
-- [WD My Cloud Mirror Gen2 with Debian 11 and Linux Kernel 5.15 LTS](https://www.nico-maas.de/?p=2469)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
