@@ -50,9 +50,9 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/Vrekrer/Vrekrer_scpi_parser/issues/28) in [Vrekrer/Vrekrer_scpi_parser](https://github.com/Vrekrer/Vrekrer_scpi_parser)
-2. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+1. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. ❗️ Opened issue [#28](https://github.com/Vrekrer/Vrekrer_scpi_parser/issues/28) in [Vrekrer/Vrekrer_scpi_parser](https://github.com/Vrekrer/Vrekrer_scpi_parser)
+3. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 4. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 5. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 <!--END_SECTION:activity-->
