@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Masusder/DBDSounds/issues/1) in [Masusder/DBDSounds](https://github.com/Masusder/DBDSounds)
-2. ❗️ Opened issue [#1](https://github.com/Masusder/DBDSounds/issues/1) in [Masusder/DBDSounds](https://github.com/Masusder/DBDSounds)
-3. 🗣 Commented on [#94](https://github.com/seperman/deepdiff/issues/94) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
-4. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. ❗️ Opened issue [#28](https://github.com/Vrekrer/Vrekrer_scpi_parser/issues/28) in [Vrekrer/Vrekrer_scpi_parser](https://github.com/Vrekrer/Vrekrer_scpi_parser)
+1. ❗️ Opened issue [#22](https://github.com/yamcs/python-yamcs-client/issues/22) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+2. ❗️ Closed issue [#1](https://github.com/Masusder/DBDSounds/issues/1) in [Masusder/DBDSounds](https://github.com/Masusder/DBDSounds)
+3. ❗️ Opened issue [#1](https://github.com/Masusder/DBDSounds/issues/1) in [Masusder/DBDSounds](https://github.com/Masusder/DBDSounds)
+4. 🗣 Commented on [#94](https://github.com/seperman/deepdiff/issues/94) in [seperman/deepdiff](https://github.com/seperman/deepdiff)
+5. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
