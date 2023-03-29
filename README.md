@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#770](https://github.com/yamcs/yamcs/issues/770) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Opened issue [#770](https://github.com/yamcs/yamcs/issues/770) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. ❗️ Closed issue [#22](https://github.com/yamcs/python-yamcs-client/issues/22) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
-4. 🗣 Commented on [#22](https://github.com/yamcs/python-yamcs-client/issues/22) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
-5. ❗️ Opened issue [#22](https://github.com/yamcs/python-yamcs-client/issues/22) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+1. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#770](https://github.com/yamcs/yamcs/issues/770) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. ❗️ Opened issue [#770](https://github.com/yamcs/yamcs/issues/770) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. ❗️ Closed issue [#22](https://github.com/yamcs/python-yamcs-client/issues/22) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
+5. 🗣 Commented on [#22](https://github.com/yamcs/python-yamcs-client/issues/22) in [yamcs/python-yamcs-client](https://github.com/yamcs/python-yamcs-client)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
