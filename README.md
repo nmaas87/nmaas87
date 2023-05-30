@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#772](https://github.com/yamcs/yamcs/issues/772) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-2. ❗️ Opened issue [#772](https://github.com/yamcs/yamcs/issues/772) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. ❗️ Closed issue [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. 🗣 Commented on [#715](https://github.com/yamcs/yamcs/issues/715) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+2. ❗️ Closed issue [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+3. 🗣 Commented on [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+4. ❗️ Closed issue [#25](https://github.com/plutoplus/plutoplus/issues/25) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+5. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
