@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RT-Thread IoT-Contest 2023 with NXP i.MX RT1060 - Getting started](https://www.nico-maas.de/?p=2595)
 - [[PiAndMore] Yamcs Presentation](https://www.nico-maas.de/?p=2592)
 - [[PiAndMore] TinyGS Presentation](https://www.nico-maas.de/?p=2590)
 - [[PiAndMore] Raspberry Pi Introduction Presentation](https://www.nico-maas.de/?p=2587)
 - [balenaOS on the Advantech AIR-020X](https://www.nico-maas.de/?p=2569)
-- [Advantech AIR-020X Review](https://www.nico-maas.de/?p=2500)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
