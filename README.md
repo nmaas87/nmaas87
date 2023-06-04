@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-2. 🔒 Closed issue [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-3. 🗣 Commented on [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-4. 🔒 Closed issue [#25](https://github.com/plutoplus/plutoplus/issues/25) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-5. 🗣 Commented on [#26](https://github.com/plutoplus/plutoplus/issues/26) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+1. ❗ Opened issue [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+2. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+3. 🔒 Closed issue [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+4. 🗣 Commented on [#24](https://github.com/plutoplus/plutoplus/issues/24) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+5. 🔒 Closed issue [#25](https://github.com/plutoplus/plutoplus/issues/25) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
