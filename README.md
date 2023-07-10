@@ -52,9 +52,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 2. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. ❗ Opened issue [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#3](https://github.com/hamzamac/meta-splash/issues/3) in [hamzamac/meta-splash](https://github.com/hamzamac/meta-splash)
-5. 🔒 Closed issue [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+3. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. ❗ Opened issue [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#3](https://github.com/hamzamac/meta-splash/issues/3) in [hamzamac/meta-splash](https://github.com/hamzamac/meta-splash)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
