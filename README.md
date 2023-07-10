@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/hamzamac/meta-splash/issues/3) in [hamzamac/meta-splash](https://github.com/hamzamac/meta-splash)
-2. 🔒 Closed issue [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
-3. 🗣 Commented on [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
-4. ❗ Opened issue [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
-5. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
+1. ❗ Opened issue [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#3](https://github.com/hamzamac/meta-splash/issues/3) in [hamzamac/meta-splash](https://github.com/hamzamac/meta-splash)
+3. 🔒 Closed issue [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+4. 🗣 Commented on [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+5. ❗ Opened issue [#1191](https://github.com/agherzan/meta-raspberrypi/issues/1191) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
