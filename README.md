@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. 💪 Opened PR [#805](https://github.com/yamcs/yamcs/pull/805) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 2. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 3. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. ❗ Opened issue [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. 🗣 Commented on [#3](https://github.com/hamzamac/meta-splash/issues/3) in [hamzamac/meta-splash](https://github.com/hamzamac/meta-splash)
+4. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. ❗ Opened issue [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
