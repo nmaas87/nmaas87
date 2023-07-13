@@ -52,9 +52,9 @@
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#125](https://github.com/yamcs/yamcs-studio/issues/125) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 2. 💪 Opened PR [#805](https://github.com/yamcs/yamcs/pull/805) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-3. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+3. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803#issuecomment-1628709700) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+4. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803#issuecomment-1628576738) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803#issuecomment-1628533114) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
