@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#771](https://github.com/raspberrypi/picamera2/issues/771) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-2. ❗ Opened issue [#125](https://github.com/yamcs/yamcs-studio/issues/125) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-3. 💪 Opened PR [#805](https://github.com/yamcs/yamcs/pull/805) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803#issuecomment-1628709700) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-5. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803#issuecomment-1628576738) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. ❗ Opened issue [#772](https://github.com/raspberrypi/picamera2/issues/772) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+2. ❗ Opened issue [#771](https://github.com/raspberrypi/picamera2/issues/771) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+3. ❗ Opened issue [#125](https://github.com/yamcs/yamcs-studio/issues/125) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
+4. 💪 Opened PR [#805](https://github.com/yamcs/yamcs/pull/805) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#803](https://github.com/yamcs/yamcs/issues/803#issuecomment-1628709700) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
