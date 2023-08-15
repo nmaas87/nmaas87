@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#771](https://github.com/raspberrypi/picamera2/issues/771#issuecomment-1679442191) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-2. ❗ Opened issue [#772](https://github.com/raspberrypi/picamera2/issues/772) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-3. ❗ Opened issue [#771](https://github.com/raspberrypi/picamera2/issues/771) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-4. ❗ Opened issue [#125](https://github.com/yamcs/yamcs-studio/issues/125) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
-5. 💪 Opened PR [#805](https://github.com/yamcs/yamcs/pull/805) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1679509910) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+2. 🗣 Commented on [#771](https://github.com/raspberrypi/picamera2/issues/771#issuecomment-1679442191) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+3. ❗ Opened issue [#772](https://github.com/raspberrypi/picamera2/issues/772) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+4. ❗ Opened issue [#771](https://github.com/raspberrypi/picamera2/issues/771) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+5. ❗ Opened issue [#125](https://github.com/yamcs/yamcs-studio/issues/125) in [yamcs/yamcs-studio](https://github.com/yamcs/yamcs-studio)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
