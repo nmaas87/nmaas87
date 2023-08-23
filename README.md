@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1681905746) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-2. 🔒 Closed issue [#771](https://github.com/raspberrypi/picamera2/issues/771) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-3. 🗣 Commented on [#771](https://github.com/raspberrypi/picamera2/issues/771#issuecomment-1680373294) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-4. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1679509910) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-5. 🗣 Commented on [#771](https://github.com/raspberrypi/picamera2/issues/771#issuecomment-1679442191) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+1. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1690599086) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+2. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1681905746) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+3. 🔒 Closed issue [#771](https://github.com/raspberrypi/picamera2/issues/771) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+4. 🗣 Commented on [#771](https://github.com/raspberrypi/picamera2/issues/771#issuecomment-1680373294) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+5. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1679509910) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
