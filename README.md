@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1774111407) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-2. ❗ Opened issue [#38](https://github.com/janelia-arduino/TMC2209/issues/38) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-3. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1732567983) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
-4. ❗ Opened issue [#23](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver/issues/23) in [bigtreetech/BIGTREETECH-Stepper-Motor-Driver](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver)
-5. 🗣 Commented on [#16](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/issues/16#issuecomment-1705497097) in [bigtreetech/BIGTREETECH-TMC2209-V1.2](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2)
+1. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1775370180) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+2. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1774111407) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+3. ❗ Opened issue [#38](https://github.com/janelia-arduino/TMC2209/issues/38) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+4. 🗣 Commented on [#772](https://github.com/raspberrypi/picamera2/issues/772#issuecomment-1732567983) in [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2)
+5. ❗ Opened issue [#23](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver/issues/23) in [bigtreetech/BIGTREETECH-Stepper-Motor-Driver](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
