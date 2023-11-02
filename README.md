@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#864](https://github.com/jgromes/RadioLib/issues/864) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-2. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1789451326) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-3. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1789351583) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-4. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1783456774) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-5. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1775843185) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+1. 💪 Opened PR [#1802](https://github.com/earlephilhower/arduino-pico/pull/1802) in [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico)
+2. ❗ Opened issue [#864](https://github.com/jgromes/RadioLib/issues/864) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+3. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1789451326) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+4. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1789351583) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+5. 🗣 Commented on [#38](https://github.com/janelia-arduino/TMC2209/issues/38#issuecomment-1783456774) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
