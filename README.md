@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/jgromes/RadioLib/issues/864#issuecomment-1792984576) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-2. 💪 Opened PR [#866](https://github.com/jgromes/RadioLib/pull/866) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-3. 💪 Opened PR [#1](https://github.com/nmaas87/RadioLib/pull/1) in [nmaas87/RadioLib](https://github.com/nmaas87/RadioLib)
-4. 💪 Opened PR [#865](https://github.com/jgromes/RadioLib/pull/865) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-5. 💪 Opened PR [#1802](https://github.com/earlephilhower/arduino-pico/pull/1802) in [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico)
+1. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793220784) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+2. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793216279) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+3. 🗣 Commented on [#864](https://github.com/jgromes/RadioLib/issues/864#issuecomment-1792984576) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+4. 💪 Opened PR [#866](https://github.com/jgromes/RadioLib/pull/866) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+5. 💪 Opened PR [#1](https://github.com/nmaas87/RadioLib/pull/1) in [nmaas87/RadioLib](https://github.com/nmaas87/RadioLib)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
