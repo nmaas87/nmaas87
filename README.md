@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#865](https://github.com/jgromes/RadioLib/pull/865#issuecomment-1793430427) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-2. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793378874) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-3. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793376568) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-4. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793246832) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-5. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793241120) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+1. 💪 Opened PR [#2](https://github.com/nmaas87/RadioLib/pull/2) in [nmaas87/RadioLib](https://github.com/nmaas87/RadioLib)
+2. 🗣 Commented on [#865](https://github.com/jgromes/RadioLib/pull/865#issuecomment-1793430427) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+3. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793378874) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+4. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793376568) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+5. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1793246832) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
