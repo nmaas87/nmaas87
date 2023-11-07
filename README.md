@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/google-coral/pycoral/issues/85#issuecomment-1798943560) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
-2. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1798936951) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
-3. ❗ Opened issue [#3](https://github.com/oberluz/pycoral/issues/3) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
-4. 🗣 Commented on [#85](https://github.com/google-coral/pycoral/issues/85#issuecomment-1793813551) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
-5. 🗣 Commented on [#1802](https://github.com/earlephilhower/arduino-pico/pull/1802#issuecomment-1793699816) in [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico)
+1. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1799675446) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
+2. 🗣 Commented on [#85](https://github.com/google-coral/pycoral/issues/85#issuecomment-1798943560) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
+3. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1798936951) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
+4. ❗ Opened issue [#3](https://github.com/oberluz/pycoral/issues/3) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
+5. 🗣 Commented on [#85](https://github.com/google-coral/pycoral/issues/85#issuecomment-1793813551) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
