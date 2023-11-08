@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/oberluz/pycoral/issues/6) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
-2. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1799675446) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
-3. 🗣 Commented on [#85](https://github.com/google-coral/pycoral/issues/85#issuecomment-1798943560) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
-4. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1798936951) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
-5. ❗ Opened issue [#3](https://github.com/oberluz/pycoral/issues/3) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
+1. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1802502539) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+2. ❗ Opened issue [#6](https://github.com/oberluz/pycoral/issues/6) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
+3. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1799675446) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
+4. 🗣 Commented on [#85](https://github.com/google-coral/pycoral/issues/85#issuecomment-1798943560) in [google-coral/pycoral](https://github.com/google-coral/pycoral)
+5. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1798936951) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
