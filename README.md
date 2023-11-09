@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/turing-machines/BMC-Firmware/issues/139#issuecomment-1804619039) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
-2. ❗ Opened issue [#139](https://github.com/turing-machines/BMC-Firmware/issues/139) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
-3. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1802502539) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-4. ❗ Opened issue [#6](https://github.com/oberluz/pycoral/issues/6) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
-5. 🗣 Commented on [#3](https://github.com/oberluz/pycoral/issues/3#issuecomment-1799675446) in [oberluz/pycoral](https://github.com/oberluz/pycoral)
+1. 🗣 Commented on [#139](https://github.com/turing-machines/BMC-Firmware/issues/139#issuecomment-1804735118) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+2. 🔒 Closed issue [#139](https://github.com/turing-machines/BMC-Firmware/issues/139) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+3. 🗣 Commented on [#139](https://github.com/turing-machines/BMC-Firmware/issues/139#issuecomment-1804619039) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+4. ❗ Opened issue [#139](https://github.com/turing-machines/BMC-Firmware/issues/139) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+5. 🗣 Commented on [#867](https://github.com/jgromes/RadioLib/pull/867#issuecomment-1802502539) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
