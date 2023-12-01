@@ -36,7 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RAK11300 Teardown / Getting to work with Arduino-Pico and RadioLib!](https://www.nico-maas.de/?p=2607)
+- [RAK11300 - Getting it to work with Arduino-Pico and RadioLib!](https://www.nico-maas.de/?p=2607)
 - [RT-Thread IoT-Contest 2023 with NXP i.MX RT1060 - CCSDS-TM-FSM](https://www.nico-maas.de/?p=2600)
 - [RT-Thread IoT-Contest 2023 with NXP i.MX RT1060 - Getting started](https://www.nico-maas.de/?p=2595)
 - [[PiAndMore] Yamcs Presentation](https://www.nico-maas.de/?p=2592)
