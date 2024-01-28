@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913364219) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-2. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913356693) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-3. 🗣 Commented on [#588](https://github.com/jgromes/RadioLib/issues/588#issuecomment-1837445051) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-4. 🗣 Commented on [#141](https://github.com/4-20ma/ModbusMaster/issues/141#issuecomment-1836757988) in [4-20ma/ModbusMaster](https://github.com/4-20ma/ModbusMaster)
-5. 🗣 Commented on [#139](https://github.com/turing-machines/BMC-Firmware/issues/139#issuecomment-1804735118) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+1. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913573962) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+2. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913564003) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+3. ❗ Opened issue [#948](https://github.com/jgromes/RadioLib/issues/948) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+4. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913364219) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+5. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913356693) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
