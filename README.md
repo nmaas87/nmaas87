@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting LoRaWAN working with STM32WL55 and Radiolib](https://www.nico-maas.de/?p=2651)
 - [Repairing a TuringPi 2](https://www.nico-maas.de/?p=2637)
 - [Building a MLX90640 Thermal Camera](https://www.nico-maas.de/?p=2630)
 - [RAK11300 - Getting it to work with Arduino-Pico and RadioLib!](https://www.nico-maas.de/?p=2607)
 - [RT-Thread IoT-Contest 2023 with NXP i.MX RT1060 - CCSDS-TM-FSM](https://www.nico-maas.de/?p=2600)
-- [RT-Thread IoT-Contest 2023 with NXP i.MX RT1060 - Getting started](https://www.nico-maas.de/?p=2595)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
