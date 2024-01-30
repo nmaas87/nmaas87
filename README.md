@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913588039) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-2. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913582087) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-3. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913573962) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-4. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913564003) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-5. ❗ Opened issue [#948](https://github.com/jgromes/RadioLib/issues/948) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+1. 🗣 Commented on [#25](https://github.com/geerlingguy/sbc-reviews/issues/25#issuecomment-1917571396) in [geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews)
+2. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913588039) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+3. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913582087) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+4. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913573962) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+5. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913564003) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
