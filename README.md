@@ -50,8 +50,8 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10#issuecomment-2134019155) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-2. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913588039) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+1. ❗ Opened issue [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+2. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10#issuecomment-2134019155) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 3. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913582087) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
 4. 🗣 Commented on [#948](https://github.com/jgromes/RadioLib/issues/948#issuecomment-1913573962) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
 5. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913564003) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
