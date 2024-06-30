@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
-2. 🗣 Commented on [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337#issuecomment-2156771769) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
-3. ❗ Opened issue [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
-4. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10#issuecomment-2134019155) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
-5. 🗣 Commented on [#942](https://github.com/jgromes/RadioLib/pull/942#issuecomment-1913564003) in [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
+1. ❗ Opened issue [#75](https://github.com/janelia-arduino/TMC2209/issues/75) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+2. 🔒 Closed issue [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+3. 🗣 Commented on [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337#issuecomment-2156771769) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+4. ❗ Opened issue [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+5. 🗣 Commented on [#10](https://github.com/plutoplus/plutoplus/issues/10#issuecomment-2134019155) in [plutoplus/plutoplus](https://github.com/plutoplus/plutoplus)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
