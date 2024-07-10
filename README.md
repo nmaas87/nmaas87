@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#77](https://github.com/janelia-arduino/TMC2209/issues/77) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-2. 🗣 Commented on [#75](https://github.com/janelia-arduino/TMC2209/issues/75#issuecomment-2200546900) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-3. 🔒 Closed issue [#75](https://github.com/janelia-arduino/TMC2209/issues/75) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-4. ❗ Opened issue [#75](https://github.com/janelia-arduino/TMC2209/issues/75) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-5. 🔒 Closed issue [#1337](https://github.com/agherzan/meta-raspberrypi/issues/1337) in [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)
+1. 💪 Opened PR [#2431](https://github.com/stm32duino/Arduino_Core_STM32/pull/2431) in [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
+2. ❗ Opened issue [#77](https://github.com/janelia-arduino/TMC2209/issues/77) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+3. 🗣 Commented on [#75](https://github.com/janelia-arduino/TMC2209/issues/75#issuecomment-2200546900) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+4. 🔒 Closed issue [#75](https://github.com/janelia-arduino/TMC2209/issues/75) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+5. ❗ Opened issue [#75](https://github.com/janelia-arduino/TMC2209/issues/75) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
