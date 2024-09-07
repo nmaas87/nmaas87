@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2227296732) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
-2. 💪 Opened PR [#2431](https://github.com/stm32duino/Arduino_Core_STM32/pull/2431) in [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
-3. ❗ Opened issue [#77](https://github.com/janelia-arduino/TMC2209/issues/77) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-4. 🗣 Commented on [#75](https://github.com/janelia-arduino/TMC2209/issues/75#issuecomment-2200546900) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-5. 🔒 Closed issue [#75](https://github.com/janelia-arduino/TMC2209/issues/75) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+1. ❗ Opened issue [#931](https://github.com/yamcs/yamcs/issues/931) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2227296732) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
+3. 💪 Opened PR [#2431](https://github.com/stm32duino/Arduino_Core_STM32/pull/2431) in [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
+4. ❗ Opened issue [#77](https://github.com/janelia-arduino/TMC2209/issues/77) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+5. 🗣 Commented on [#75](https://github.com/janelia-arduino/TMC2209/issues/75#issuecomment-2200546900) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
