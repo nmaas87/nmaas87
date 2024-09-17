@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/turing-machines/BMC-Firmware/issues/221#issuecomment-2346980666) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
-2. ❗ Opened issue [#221](https://github.com/turing-machines/BMC-Firmware/issues/221) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
-3. ❗ Opened issue [#931](https://github.com/yamcs/yamcs/issues/931) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2227296732) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
-5. 💪 Opened PR [#2431](https://github.com/stm32duino/Arduino_Core_STM32/pull/2431) in [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
+1. 🗣 Commented on [#931](https://github.com/yamcs/yamcs/issues/931#issuecomment-2356437792) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+2. 🗣 Commented on [#221](https://github.com/turing-machines/BMC-Firmware/issues/221#issuecomment-2346980666) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+3. ❗ Opened issue [#221](https://github.com/turing-machines/BMC-Firmware/issues/221) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+4. ❗ Opened issue [#931](https://github.com/yamcs/yamcs/issues/931) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2227296732) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
