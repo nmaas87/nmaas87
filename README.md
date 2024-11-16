@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5146](https://github.com/meshtastic/firmware/issues/5146) in [meshtastic/firmware](https://github.com/meshtastic/firmware)
-2. ❗ Opened issue [#1096](https://github.com/Joshua-Riek/ubuntu-rockchip/issues/1096) in [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
-3. 🗣 Commented on [#931](https://github.com/yamcs/yamcs/issues/931#issuecomment-2356437792) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
-4. 🗣 Commented on [#221](https://github.com/turing-machines/BMC-Firmware/issues/221#issuecomment-2346980666) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
-5. ❗ Opened issue [#221](https://github.com/turing-machines/BMC-Firmware/issues/221) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+1. 🗣 Commented on [#2](https://github.com/radiolib-org/radiolib-persistence/issues/2#issuecomment-2480662922) in [radiolib-org/radiolib-persistence](https://github.com/radiolib-org/radiolib-persistence)
+2. ❗ Opened issue [#5146](https://github.com/meshtastic/firmware/issues/5146) in [meshtastic/firmware](https://github.com/meshtastic/firmware)
+3. ❗ Opened issue [#1096](https://github.com/Joshua-Riek/ubuntu-rockchip/issues/1096) in [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
+4. 🗣 Commented on [#931](https://github.com/yamcs/yamcs/issues/931#issuecomment-2356437792) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+5. 🗣 Commented on [#221](https://github.com/turing-machines/BMC-Firmware/issues/221#issuecomment-2346980666) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
