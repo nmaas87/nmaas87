@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/turing-machines/BMC-Firmware/issues/221#issuecomment-2489291481) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
-2. 🗣 Commented on [#2](https://github.com/radiolib-org/radiolib-persistence/issues/2#issuecomment-2480662922) in [radiolib-org/radiolib-persistence](https://github.com/radiolib-org/radiolib-persistence)
-3. ❗ Opened issue [#5146](https://github.com/meshtastic/firmware/issues/5146) in [meshtastic/firmware](https://github.com/meshtastic/firmware)
-4. ❗ Opened issue [#1096](https://github.com/Joshua-Riek/ubuntu-rockchip/issues/1096) in [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
-5. 🗣 Commented on [#931](https://github.com/yamcs/yamcs/issues/931#issuecomment-2356437792) in [yamcs/yamcs](https://github.com/yamcs/yamcs)
+1. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2504584446) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
+2. 🗣 Commented on [#221](https://github.com/turing-machines/BMC-Firmware/issues/221#issuecomment-2489291481) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+3. 🗣 Commented on [#2](https://github.com/radiolib-org/radiolib-persistence/issues/2#issuecomment-2480662922) in [radiolib-org/radiolib-persistence](https://github.com/radiolib-org/radiolib-persistence)
+4. ❗ Opened issue [#5146](https://github.com/meshtastic/firmware/issues/5146) in [meshtastic/firmware](https://github.com/meshtastic/firmware)
+5. ❗ Opened issue [#1096](https://github.com/Joshua-Riek/ubuntu-rockchip/issues/1096) in [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
