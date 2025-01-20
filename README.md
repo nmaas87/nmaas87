@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1333](https://github.com/wg-easy/wg-easy/pull/1333#issuecomment-2592788797) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#77](https://github.com/janelia-arduino/TMC2209/issues/77#issuecomment-2567885502) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-3. 🔒 Closed issue [#77](https://github.com/janelia-arduino/TMC2209/issues/77) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
-4. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2504584446) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
-5. 🗣 Commented on [#221](https://github.com/turing-machines/BMC-Firmware/issues/221#issuecomment-2489291481) in [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware)
+1. 🗣 Commented on [#1096](https://github.com/Joshua-Riek/ubuntu-rockchip/issues/1096#issuecomment-2602618009) in [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
+2. 🗣 Commented on [#1333](https://github.com/wg-easy/wg-easy/pull/1333#issuecomment-2592788797) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#77](https://github.com/janelia-arduino/TMC2209/issues/77#issuecomment-2567885502) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+4. 🔒 Closed issue [#77](https://github.com/janelia-arduino/TMC2209/issues/77) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+5. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2504584446) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
