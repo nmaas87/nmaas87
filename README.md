@@ -50,9 +50,9 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1489](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1489#issuecomment-2844261076) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
-2. 🗣 Commented on [#1594](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1594#issuecomment-2835893362) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
-3. 🗣 Commented on [#77](https://github.com/janelia-arduino/TMC2209/issues/77#issuecomment-2567885502) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
+1. ❗ Opened issue [#63](https://github.com/rhjdjong/SlipLib/issues/63) in [rhjdjong/SlipLib](https://github.com/rhjdjong/SlipLib)
+2. 🗣 Commented on [#1489](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1489#issuecomment-2844261076) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
+3. 🗣 Commented on [#1594](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1594#issuecomment-2835893362) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 4. 🔒 Closed issue [#77](https://github.com/janelia-arduino/TMC2209/issues/77) in [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209)
 5. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2504584446) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
 <!--END_SECTION:activity-->
