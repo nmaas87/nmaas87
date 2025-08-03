@@ -50,7 +50,7 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/rhjdjong/SlipLib/issues/63#issuecomment-2859172231) in [rhjdjong/SlipLib](https://github.com/rhjdjong/SlipLib)
+1. 💪 Opened PR [#2](https://github.com/l-nmch/hailo-mnist/pull/2) in [l-nmch/hailo-mnist](https://github.com/l-nmch/hailo-mnist)
 2. ❗ Opened issue [#63](https://github.com/rhjdjong/SlipLib/issues/63) in [rhjdjong/SlipLib](https://github.com/rhjdjong/SlipLib)
 3. 🗣 Commented on [#1489](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1489#issuecomment-2844261076) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 4. 🗣 Commented on [#1594](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1594#issuecomment-2835893362) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
