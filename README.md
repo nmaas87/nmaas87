@@ -50,8 +50,8 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/l-nmch/hailo-mnist/pull/2) in [l-nmch/hailo-mnist](https://github.com/l-nmch/hailo-mnist)
-2. ❗ Opened issue [#63](https://github.com/rhjdjong/SlipLib/issues/63) in [rhjdjong/SlipLib](https://github.com/rhjdjong/SlipLib)
+1. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3165357165) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+2. 💪 Opened PR [#2](undefined) in [l-nmch/hailo-mnist](https://github.com/l-nmch/hailo-mnist)
 3. 🗣 Commented on [#1489](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1489#issuecomment-2844261076) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 4. 🗣 Commented on [#1594](https://github.com/AlexandreRouma/SDRPlusPlus/issues/1594#issuecomment-2835893362) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 5. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2504584446) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
