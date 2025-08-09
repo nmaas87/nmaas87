@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3171864430) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-2. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3169409682) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-3. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3169079213) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-4. 💪 Opened PR [#2](https://github.com/l-nmch/hailo-mnist/pull/2) in [l-nmch/hailo-mnist](https://github.com/l-nmch/hailo-mnist)
-5. 🗣 Commented on [#36](https://github.com/stm32duino/STM32LoRaWAN/issues/36#issuecomment-2504584446) in [stm32duino/STM32LoRaWAN](https://github.com/stm32duino/STM32LoRaWAN)
+1. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3172025614) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+2. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3171864430) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+3. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3169409682) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+4. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3169079213) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+5. 💪 Opened PR [#2](https://github.com/l-nmch/hailo-mnist/pull/2) in [l-nmch/hailo-mnist](https://github.com/l-nmch/hailo-mnist)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
