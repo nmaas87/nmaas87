@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Paper] apex Mk.2/Mk.3, apex MCC, apex MRMSS](https://www.nico-maas.de/?p=2750)
 - [Reworking a Dell Latitude XT in 2024](https://www.nico-maas.de/?p=2715)
 - [RAK3172T in Arduino](https://www.nico-maas.de/?p=2693)
 - [Turing Pi 2 - Retrofitting an EMC2301 Fancontroller](https://www.nico-maas.de/?p=2702)
 - [GeeekPi RPi 4G Hat for RAKwireless RAK5146 USB](https://www.nico-maas.de/?p=2678)
-- [Install a bootloader onto Turing RK1 eMMC memory](https://www.nico-maas.de/?p=2669)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
