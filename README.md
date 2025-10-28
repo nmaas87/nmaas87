@@ -50,7 +50,7 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/radxa/u-boot/issues/131#issuecomment-3263821511) in [radxa/u-boot](https://github.com/radxa/u-boot)
+1. 🗣 Commented on [#15273](https://github.com/jellyfin/jellyfin/issues/15273#issuecomment-3458103124) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 2. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3172838772) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
 3. 🗣 Commented on [#131](https://github.com/radxa/u-boot/issues/131#issuecomment-3172594388) in [radxa/u-boot](https://github.com/radxa/u-boot)
 4. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3172025614) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
