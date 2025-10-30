@@ -50,9 +50,9 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15273](https://github.com/jellyfin/jellyfin/issues/15273#issuecomment-3458667981) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-2. 🗣 Commented on [#15273](https://github.com/jellyfin/jellyfin/issues/15273#issuecomment-3458103124) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-3. 🗣 Commented on [#131](https://github.com/radxa/u-boot/issues/131#issuecomment-3172594388) in [radxa/u-boot](https://github.com/radxa/u-boot)
+1. ❗ Opened issue [#163](https://github.com/pythops/jetson-image/issues/163) in [pythops/jetson-image](https://github.com/pythops/jetson-image)
+2. 🗣 Commented on [#15273](https://github.com/jellyfin/jellyfin/issues/15273#issuecomment-3458667981) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+3. 🗣 Commented on [#15273](https://github.com/jellyfin/jellyfin/issues/15273#issuecomment-3458103124) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 4. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3172025614) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
 5. 🗣 Commented on [#224](https://github.com/edk2-porting/edk2-rk3588/issues/224#issuecomment-3171864430) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
 <!--END_SECTION:activity-->
