@@ -50,8 +50,8 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/sjoerdsimons/openwrt-one-debian/issues/11) in [sjoerdsimons/openwrt-one-debian](https://github.com/sjoerdsimons/openwrt-one-debian)
-2. 🗣 Commented on [#15303](https://github.com/jellyfin/jellyfin/issues/15303#issuecomment-3543887629) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+1. 🗣 Commented on [#8745](https://github.com/opnsense/core/issues/8745#issuecomment-4260850590) in [opnsense/core](https://github.com/opnsense/core)
+2. ❗ Opened issue [#11](https://github.com/sjoerdsimons/openwrt-one-debian/issues/11) in [sjoerdsimons/openwrt-one-debian](https://github.com/sjoerdsimons/openwrt-one-debian)
 3. 🗣 Commented on [#144](https://github.com/Affirmatech/MeshSense/issues/144#issuecomment-3534026934) in [Affirmatech/MeshSense](https://github.com/Affirmatech/MeshSense)
 4. 🗣 Commented on [#16](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/issues/16#issuecomment-3476175281) in [bigtreetech/BIGTREETECH-TMC2209-V1.2](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2)
 5. 🗣 Commented on [#16](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/issues/16#issuecomment-3474625360) in [bigtreetech/BIGTREETECH-TMC2209-V1.2](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2)
