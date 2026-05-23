@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1218](https://github.com/CodeWithCJ/SparkyFitness/issues/1218#issuecomment-4489854632) in [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
-2. ❗ Opened issue [#1366](https://github.com/oliexdev/openScale/issues/1366) in [oliexdev/openScale](https://github.com/oliexdev/openScale)
-3. 🗣 Commented on [#1921](https://github.com/crosspoint-reader/crosspoint-reader/pull/1921#issuecomment-4415551519) in [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
-4. 🗣 Commented on [#1218](https://github.com/CodeWithCJ/SparkyFitness/issues/1218#issuecomment-4367139746) in [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
-5. 🗣 Commented on [#2483](https://github.com/stalwartlabs/stalwart/issues/2483#issuecomment-4346709676) in [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
+1. 🗣 Commented on [#1](https://github.com/StunlockStudios/vrising-dedicated-server-instructions/issues/1#issuecomment-4525751035) in [StunlockStudios/vrising-dedicated-server-instructions](https://github.com/StunlockStudios/vrising-dedicated-server-instructions)
+2. 🗣 Commented on [#1218](https://github.com/CodeWithCJ/SparkyFitness/issues/1218#issuecomment-4489854632) in [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
+3. ❗ Opened issue [#1366](https://github.com/oliexdev/openScale/issues/1366) in [oliexdev/openScale](https://github.com/oliexdev/openScale)
+4. 🗣 Commented on [#1921](https://github.com/crosspoint-reader/crosspoint-reader/pull/1921#issuecomment-4415551519) in [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
+5. 🗣 Commented on [#1218](https://github.com/CodeWithCJ/SparkyFitness/issues/1218#issuecomment-4367139746) in [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
