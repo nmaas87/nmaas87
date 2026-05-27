@@ -50,11 +50,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#436](https://github.com/roundcube/roundcubemail-docker/issues/436) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
-2. 🗣 Commented on [#2483](https://github.com/stalwartlabs/stalwart/issues/2483#issuecomment-4527818001) in [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
-3. 🗣 Commented on [#1](https://github.com/StunlockStudios/vrising-dedicated-server-instructions/issues/1#issuecomment-4525751035) in [StunlockStudios/vrising-dedicated-server-instructions](https://github.com/StunlockStudios/vrising-dedicated-server-instructions)
-4. 🗣 Commented on [#1218](https://github.com/CodeWithCJ/SparkyFitness/issues/1218#issuecomment-4489854632) in [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
-5. ❗ Opened issue [#1366](https://github.com/oliexdev/openScale/issues/1366) in [oliexdev/openScale](https://github.com/oliexdev/openScale)
+1. 🔒 Closed issue [#436](https://github.com/roundcube/roundcubemail-docker/issues/436) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
+2. 🗣 Commented on [#436](https://github.com/roundcube/roundcubemail-docker/issues/436#issuecomment-4554230227) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
+3. 🗣 Commented on [#436](https://github.com/roundcube/roundcubemail-docker/issues/436#issuecomment-4554172283) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
+4. ❗ Opened issue [#436](https://github.com/roundcube/roundcubemail-docker/issues/436) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
+5. 🗣 Commented on [#2483](https://github.com/stalwartlabs/stalwart/issues/2483#issuecomment-4527818001) in [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
