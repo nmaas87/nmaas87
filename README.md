@@ -50,7 +50,7 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#436](https://github.com/roundcube/roundcubemail-docker/issues/436) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
+1. ❗ Opened issue [#1](https://github.com/alexindigo/globnotes/issues/1) in [alexindigo/globnotes](https://github.com/alexindigo/globnotes)
 2. 🗣 Commented on [#436](https://github.com/roundcube/roundcubemail-docker/issues/436#issuecomment-4554230227) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
 3. 🗣 Commented on [#436](https://github.com/roundcube/roundcubemail-docker/issues/436#issuecomment-4554172283) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
 4. ❗ Opened issue [#436](https://github.com/roundcube/roundcubemail-docker/issues/436) in [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker)
