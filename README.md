@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[PiAndMore] apex Mk.2/Mk.3 on DLR MAPHEUS 10 Presentation](https://www.nico-maas.de/?p=2822)
-- [[PiAndMore] Raspberry Pi Introduction Presentation](https://www.nico-maas.de/?p=2819)
-- [[openBF511] Reverse Engineering a Omron BF511 scale](https://www.nico-maas.de/?p=2794)
-- [[Paper] apex Mk.2/Mk.3, apex MCC, apex MRMSS](https://www.nico-maas.de/?p=2750)
-- [Reworking a Dell Latitude XT in 2024](https://www.nico-maas.de/?p=2715)
+- [Goodbye WordPress!](https://www.nico-maas.de/posts/2026-11-08-goodbye-wordpress/)
+- [[PiAndMore] apex Mk.2/Mk.3 on DLR MAPHEUS 10 Presentation](https://www.nico-maas.de/posts/2026-09-26-piandmore-apex-mk-2-mk-3-on-dlr-mapheus-10-presentation/)
+- [[PiAndMore] Raspberry Pi Introduction Presentation](https://www.nico-maas.de/posts/2026-09-26-piandmore-raspberry-pi-introduction-presentation-6/)
+- [[openBF511] Reverse Engineering a Omron BF511 scale](https://www.nico-maas.de/posts/2026-05-21-openbf511-reverse-engineering-a-omron-bf511-scale/)
+- [[Paper] apex Mk.2/Mk.3, apex MCC, apex MRMSS](https://www.nico-maas.de/posts/2025-09-24-paper-apex-mk-2-mk-3-apex-mcc-apex-mrmss/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.nico-maas.de)
