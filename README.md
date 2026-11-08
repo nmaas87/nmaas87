@@ -1,7 +1,6 @@
-# Nico Maas - aka [nmaas87][website] 👋
+# Nico Maas - aka [nmaas87][link_website] 👋
 
 [![Website](https://img.shields.io/website?label=nico-maas.de&style=for-the-badge&url=https%3A%2F%2Fwww.nico-maas.de)](https://www.nico-maas.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nmaas87?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnmaas87&screen_name=nmaas87)
 
 ## Space, IT Security, Networks, Embedded Systems, balena Ambassador, Docker Campus Ambassador and Raspberry Pi Geek
 
@@ -13,23 +12,20 @@
   - 3D / fdm printing
   - working with Docker on embedded devices
 - 👯 I'm looking to collaborate
-  - You can find me often at the [PiAndMore][piandmore]
-  - I share my [talks], [video recordings] and [papers] via my [blog][website]
+  - You can find me often at the [PiAndMore][link_piandmore]
+  - I share my [talks][link_talks], [video recordings][link_videoRecordings] and [papers][link_papers] via my [blog][link_website]
 - ⚡ Fun facts:
   - I love to play guitar
 
+---
+
 ### Connect with me
 
-[<img align="left" alt="nico-maas.de" width="22px" src="https://cdn.simpleicons.org/wordpress" />][website]
-[<img align="left" alt="nicomaas | Keybase" width="22px" src="https://cdn.simpleicons.org/keybase" />][keybase]
-[<img align="left" alt="nmaas87 | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
-[<img align="left" alt="@nmaas87@chaos.social | Mastodon" width="22px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
-[<img align="left" alt="nicomaas | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="nmaas87 | Hackster" width="22px" src="https://cdn.simpleicons.org/hackster" />][hackster]
-
-
-
-<br />
+[<img align="left" alt="nico-maas.de" width="22px" src="https://cdn.simpleicons.org/wordpress" />][link_website]
+[<img align="left" alt="nicomaas | Keybase" width="22px" src="https://cdn.simpleicons.org/keybase" />][link_keybase]
+[<img align="left" alt="@nmaas87@chaos.social | Mastodon" width="22px" src="https://cdn.simpleicons.org/mastodon" />][link_mastodon]
+[<img align="left" alt="nmaas87 | Hackster" width="22px" src="https://cdn.simpleicons.org/hackster" />][link_hackster]
+[LinkedIn][link_linkedin]
 
 ---
 
@@ -59,16 +55,15 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="nmaas87's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nmaas87&show_icons=true&hide_border=true" />
+  <img align="left" alt="nmaas87's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=nmaas87&show_icons=true&hide_border=true" />
 
 
-[website]: https://www.nico-maas.de
-[twitter]: https://twitter.com/nmaas87
-[linkedin]: https://linkedin.com/in/nicomaas
-[keybase]: https://keybase.io/nicomaas
-[hackster]: https://www.hackster.io/nmaas87
-[mastodon]: https://chaos.social/@nmaas87
-[piandmore]: https://piandmore.de/en/
-[talks]: https://www.nico-maas.de/?cat=392
-[video recordings]: https://www.nico-maas.de/?page_id=1244
-[papers]: https://www.nico-maas.de/?cat=301
+[link_website]: https://www.nico-maas.de
+[link_linkedin]: https://linkedin.com/in/nicomaas
+[link_keybase]: https://keybase.io/nicomaas
+[link_hackster]: https://www.hackster.io/nmaas87
+[link_mastodon]: https://chaos.social/@nmaas87
+[link_piandmore]: https://piandmore.de/en/
+[link_talks]: https://www.nico-maas.de/categories/talks/
+[link_videoRecordings]: https://www.nico-maas.de/videos/
+[link_papers]: https://www.nico-maas.de/categories/papers/
