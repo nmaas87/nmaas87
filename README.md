@@ -46,11 +46,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#449](https://github.com/csete/gpredict/pull/449) in [csete/gpredict](https://github.com/csete/gpredict)
-2. 🗣 Commented on [#110](https://github.com/csete/gpredict/issues/110#issuecomment-6877650004) in [csete/gpredict](https://github.com/csete/gpredict)
-3. 💪 Opened PR [#449](https://github.com/csete/gpredict/pull/449) in [csete/gpredict](https://github.com/csete/gpredict)
-4. 💪 Opened PR [#448](https://github.com/csete/gpredict/pull/448) in [csete/gpredict](https://github.com/csete/gpredict)
-5. 🗣 Commented on [#92](https://github.com/OpenSC/pam_pkcs11/issues/92#issuecomment-6625283689) in [OpenSC/pam_pkcs11](https://github.com/OpenSC/pam_pkcs11)
+1. ❗ Opened issue [#2](https://github.com/JonasCz/MarvinCapture/issues/2) in [JonasCz/MarvinCapture](https://github.com/JonasCz/MarvinCapture)
+2. 🎉 Merged PR [#449](https://github.com/csete/gpredict/pull/449) in [csete/gpredict](https://github.com/csete/gpredict)
+3. 🗣 Commented on [#110](https://github.com/csete/gpredict/issues/110#issuecomment-6877650004) in [csete/gpredict](https://github.com/csete/gpredict)
+4. 💪 Opened PR [#449](https://github.com/csete/gpredict/pull/449) in [csete/gpredict](https://github.com/csete/gpredict)
+5. 💪 Opened PR [#448](https://github.com/csete/gpredict/pull/448) in [csete/gpredict](https://github.com/csete/gpredict)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
